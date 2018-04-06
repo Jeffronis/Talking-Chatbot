@@ -1,0 +1,5 @@
+Dependinces
+Google Text to speach. gTTS
+Chatterbot.
+
+Github Link: https://github.com/Jeffronis/Talking-Chatbot
